@@ -1,0 +1,5 @@
+module CLibui [system] {
+    header "/usr/local/include/ui.h"
+    link "ui"
+    export *
+}
